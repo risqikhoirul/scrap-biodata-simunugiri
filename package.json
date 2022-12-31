@@ -1,0 +1,20 @@
+{
+  "name": "ptr",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "cheerio": "^1.0.0-rc.12",
+    "delay": "^5.0.0",
+    "puppeteer": "^19.4.1",
+    "readline-sync": "^1.4.10"
+  }
+}
